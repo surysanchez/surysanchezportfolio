@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
 // import color from '../assets/color.jpeg';
+import { Link } from "react-scroll";
 
 export default function Home() {
   return (
@@ -20,12 +21,14 @@ export default function Home() {
           {" "}
           I'm Surely Sanchez
         </h2>
-        <h3 className=" text-2xl sm:text-4xl text-[#F2C14E] justify-center font-bold bg-gradient-to-r from-cyan-500 to-pink-500 w-2/3 ">
+        <h3 className=" text-2xl sm:text-4xl text-[#F2C14E] justify-center font-bold bg-gradient-to-r from-cyan-500 to-pink-500 w-2/3 rounded-md">
           A Visionary Full Stack Developer.
         </h3>
         <div>
           <button className="text-lg group font-mono text-[#605022] max-w-[700px] border-4 border-cyan-600 px-4 py-3 my-3 flex items-center hover:bg-[#F2C14E] hover:border-[#F2C14E] ">
-            View my Work
+            <Link to="experience" smooth={true} duration={500}>
+              View my Work
+            </Link>
             <span className="group-hover:rotate-90 duration-300">
               <HiArrowNarrowRight className="ml-3" />
             </span>{" "}

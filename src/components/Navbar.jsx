@@ -17,7 +17,7 @@ export default function Navbar() {
 
   return (
     <div
-      className=" navbar fixed w-full h-[80px] flex justify-between items-center px-4 bg-[url('./assets/waves.webp')] text-black-300"
+      className=" navbar fixed w-full h-[80px] flex justify-between items-center px-4 bg-[url('./assets/waves.webp')] text-black-300  border-2 rounded-md"
       style={{
         backgroundSize: "cover",
         backgroundRepeat: "no-repeat",
@@ -111,9 +111,17 @@ export default function Navbar() {
       <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
         <ul>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600 text-white">
-            <a
+            {/* <a
               className="flex justify-between items-center w-full text-300"
               href="https://www.linkedin.com/in/sury-sanchez-software-engineer/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Linkedin <FaLinkedin size={30} />{" "}
+            </a> */}
+            <a
+              className="flex justify-between items-center w-full text-300"
+              href="./assets/Surely Sanchez Software Developer - Corriculum.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >

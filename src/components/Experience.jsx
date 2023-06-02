@@ -6,13 +6,13 @@ import SweetTreats from "../assets/sweettreats.png";
 
 export default function Experience() {
   return (
-    <div name="experience" className="w-full md:h-screen pt-24 ">
+    <div name="experience" className="w-full md:h-screen pt-8 mt-8 mb-4">
       {/* bg-[#F2C14E] */}
       {/* Container  */}
 
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
-          <p className="text-3xl inline border-b-4 font-semibold font-mono border-cyan-700 py-1 ">
+          <p className="text-3xl inline border-b-4  font-mono border-cyan-700 py-1 ">
             Work
           </p>
           <p className="py-6"> // Check out some of my recent work</p>
@@ -44,7 +44,7 @@ export default function Experience() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600 font-semibold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600 text-lg">
                     Demo
                   </button>
                 </a>
@@ -53,7 +53,7 @@ export default function Experience() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600 font-mono font-semibold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600 font-mono  text-lg">
                     Code
                   </button>
                 </a>
@@ -84,7 +84,7 @@ export default function Experience() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600 font-semibold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600 text-lg">
                     Demo
                   </button>
                 </a>
@@ -93,7 +93,7 @@ export default function Experience() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600 font-mono font-semibold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600 font-mono text-lg">
                     Code
                   </button>
                 </a>
@@ -124,7 +124,7 @@ export default function Experience() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600 font-semibold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600 text-lg">
                     Demo
                   </button>
                 </a>
@@ -133,7 +133,7 @@ export default function Experience() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600 font-mono font-semibold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600 font-mono  text-lg">
                     Code
                   </button>
                 </a>
@@ -160,12 +160,12 @@ export default function Experience() {
               </p>
               <div className="pt-8 text-center">
                 <a href="/" target="_blank" rel="noopener noreferrer">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600 font-semibold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600  text-lg">
                     Demo
                   </button>
                 </a>
                 <a href="/" target="_blank" rel="noopener noreferrer">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600 font-mono font-semibold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600 font-mono  text-lg">
                     Code
                   </button>
                 </a>
