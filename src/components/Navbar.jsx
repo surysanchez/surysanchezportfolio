@@ -32,30 +32,30 @@ export default function Navbar() {
       {/* menu */}
 
       <ul className="hidden md:flex">
-        <li>
+        <li className="border-4 rounded-md  border-transparent hover:border-[white] hover:text-pink-600 py-1 text-xl">
           {" "}
           <Link to="home" smooth={true} duration={500}>
             Home
           </Link>
         </li>
-        <li>
+        <li className="border-4 rounded-md  border-transparent hover:border-[white] hover:text-pink-600 py-1 text-xl">
           <Link to="about" smooth={true} duration={500}>
             About
           </Link>
         </li>
-        <li>
+        <li className="border-4 rounded-md  border-transparent hover:border-[white] hover:text-pink-600 py-1 text-xl">
           {" "}
           <Link to="skills" smooth={true} duration={500}>
             Skills
           </Link>
         </li>
-        <li>
+        <li className="border-4 rounded-md  border-transparent hover:border-[white] hover:text-pink-600 py-1 text-xl">
           {" "}
           <Link to="work" smooth={true} duration={500}>
             Work
           </Link>
         </li>
-        <li>
+        <li className="border-4 rounded-md  border-transparent hover:border-[white] hover:text-pink-600 py-1 text-xl">
           {" "}
           <Link to="contact" smooth={true} duration={500}>
             Contact
