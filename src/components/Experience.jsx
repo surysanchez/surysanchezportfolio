@@ -164,7 +164,11 @@ export default function Experience() {
                     Demo
                   </button>
                 </a>
-                <a href="/" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://github.com/surysanchez/sweet-treats-creations"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600 font-mono  text-lg">
                     Code
                   </button>
