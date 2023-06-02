@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/surysanchezportfolio/static/css/main.30dbed9b.css",
+    "main.js": "/surysanchezportfolio/static/js/main.341f223f.js",
+    "static/media/sweettreats.png": "/surysanchezportfolio/static/media/sweettreats.ba567c52dcbfb0ee3132.png",
+    "static/media/truefitness.png": "/surysanchezportfolio/static/media/truefitness.b0592f22a45f1682bbae.png",
+    "static/media/marketurself.png": "/surysanchezportfolio/static/media/marketurself.72a15137d6aea8e2bf6b.png",
+    "static/media/game.png": "/surysanchezportfolio/static/media/game.c6db7c7b5076009f95ac.png",
+    "static/media/SurelySanchezSoftware Developer-Corriculum.pdf": "/surysanchezportfolio/static/media/SurelySanchezSoftware Developer-Corriculum.7396ec4d7fd4aa769756.pdf",
+    "static/media/waves.webp": "/surysanchezportfolio/static/media/waves.11652a642dc4e7f56474.webp",
+    "static/media/api.png": "/surysanchezportfolio/static/media/api.4560f980164fe7174313.png",
+    "static/media/postresql.png": "/surysanchezportfolio/static/media/postresql.917641916d3dff12d544.png",
+    "static/media/react.png": "/surysanchezportfolio/static/media/react.87a378c0f35d542cf0eb.png",
+    "static/media/logo.png": "/surysanchezportfolio/static/media/logo.757a4271e690d28fc9c1.png",
+    "static/media/python.png": "/surysanchezportfolio/static/media/python.30b87859b32744cac8ce.png",
+    "static/media/nodejs.png": "/surysanchezportfolio/static/media/nodejs.ed095b76fb4015dc7eb1.png",
+    "static/media/aws.png": "/surysanchezportfolio/static/media/aws.1c4a1c47d1fcde6bdea7.png",
+    "static/media/css.png": "/surysanchezportfolio/static/media/css.831888fd31b7312c72ce.png",
+    "static/media/pol.webp": "/surysanchezportfolio/static/media/pol.94bd869a25afe3e87d12.webp",
+    "static/media/html.png": "/surysanchezportfolio/static/media/html.8d796145d7618d0ad445.png",
+    "static/media/mongodb.png": "/surysanchezportfolio/static/media/mongodb.65cb1b70f1023a702cc8.png",
+    "static/media/express.png": "/surysanchezportfolio/static/media/express.3a122c80decebbbcdf5b.png",
+    "static/media/javascript.png": "/surysanchezportfolio/static/media/javascript.e7346a1bfe1203261b76.png",
+    "index.html": "/surysanchezportfolio/index.html",
+    "main.30dbed9b.css.map": "/surysanchezportfolio/static/css/main.30dbed9b.css.map",
+    "main.341f223f.js.map": "/surysanchezportfolio/static/js/main.341f223f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30dbed9b.css",
+    "static/js/main.341f223f.js"
+  ]
+}
