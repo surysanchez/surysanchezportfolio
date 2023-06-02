@@ -5,11 +5,13 @@ import {
   FaGithub,
   FaLinkedin,
   FaMailchimp,
+  FaDownload,
 } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import Logo from "../assets/logo.png";
 import { Link } from "react-scroll";
+import Resume from "../assets/SurelySanchezSoftware Developer-Corriculum.pdf";
 
 export default function Navbar() {
   const [nav, setNav] = useState(false);
@@ -111,17 +113,9 @@ export default function Navbar() {
       <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
         <ul>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600 text-white">
-            {/* <a
-              className="flex justify-between items-center w-full text-300"
-              href="https://www.linkedin.com/in/sury-sanchez-software-engineer/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Linkedin <FaLinkedin size={30} />{" "}
-            </a> */}
             <a
               className="flex justify-between items-center w-full text-300"
-              href="./assets/Surely Sanchez Software Developer - Corriculum.pdf"
+              href="https://www.linkedin.com/in/sury-sanchez-software-engineer/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -157,6 +151,19 @@ export default function Navbar() {
               alt=""
             >
               Resume <BsFillPersonLinesFill size={30} />{" "}
+            </a>
+          </li>
+          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-gradient-to-r from-cyan-500 to-pink-500 text-white">
+            <a
+              className="flex justify-between items-center w-full text-300"
+              // href="./assets/SurelySanchezSoftware Developer-Corriculum.pdf"
+              href={Resume}
+              download
+              target="_blank"
+              rel="noopener noreferrer"
+              alt=""
+            >
+              Download Resume <FaDownload size={30} />{" "}
             </a>
           </li>
         </ul>
