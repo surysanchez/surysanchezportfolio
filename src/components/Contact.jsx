@@ -12,13 +12,13 @@ export default function Contact() {
       }}
     >
       <form
-        className="flex flex-col max-w-[600px] w-full mb-24"
+        className="flex flex-col max-w-[600px] w-full "
         action="https://getform.io/f/1118c7a9-61f6-4a86-82e7-1c2896d38209"
         method="POST"
         target="_blank"
         rel="noopener noreferrer"
       >
-        <div className="pb-8 mt-8" >
+        <div className="pb-8 mt-8">
           <p className="text-3xl inline border-b-4 font-semibold font-mono border-cyan-700 py-1 mt-6">
             Contact
           </p>
@@ -48,7 +48,7 @@ export default function Contact() {
         />
         {/* <div pt-8 text-center> */}
         <button
-          className="border-4 border-[#1B998B] bg-gradient-to-r from-cyan-500 to-pink-500 hover:bg-[#1B998B] hover:border-white px-4 py-3 my-8 mx-auto md:flex items-center md:pb-[-10]"
+          className="border-4 border-[#1B998B] bg-gradient-to-r from-cyan-500 to-pink-500 hover:bg-[#1B998B] hover:border-white px-4 py-3 my-8 mx-auto md:flex items-center "
           type="submit"
           required
         >

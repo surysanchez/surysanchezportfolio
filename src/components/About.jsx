@@ -3,7 +3,7 @@ import ShowMore from "react-show-more-button";
 
 export default function About() {
   return (
-    <div name="about" className="w-full md:h-screen  mt-0  md:mb-24 md:pb-24 sm:pb-0  sm:mb-0">
+    <div name="about" className="w-full md:h-screen ">
       <div className="flex flex-col justify-center items-center w-full h-full  md:pb-24">
         <div className="max-w-[1000px] w-full px-4 grid grid-cols-2 gap-8 ">
           <div className="sm:text-right pb-8 pl-4 ">

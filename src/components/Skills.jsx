@@ -15,10 +15,7 @@ import PostreSQL from "../assets/postresql.png";
 // bg-[url('./assets/pol.webp')]
 export default function Skills() {
   return (
-    <div
-      name="skills"
-      className="w-full md:h-screen bg-pink-300 mt-24 sm:pt-24 md:pt-24 sm:pb-0  sm:mb-0"
-    >
+    <div name="skills" className="w-full h-screen  mb-24 ">
       {/* Container */}
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div>
@@ -26,80 +23,67 @@ export default function Skills() {
             Skillset
           </p>
           <p className="py-4">
-            Technologies I use to develop advantegeous applications and
-            features.{" "}
+            Technologies I use to develop practical applications and features.{" "}
           </p>
         </div>
         {/* Icons's Container */}
-        <div className="w-full grid   bg-blue-400 md:grid-rows-3 grid-cols-3 sm:grid-cols-4 gap-4 text-center py-6">
+        <div className="w-full grid  grid-cols-4 sm:grid-cols-4 gap-4 text-center py-6">
           <div className="shadow-md shadow-black hover:scale-110 duration-500">
             <img className="w-40 mx-auto " src={HTML} alt="HTML icon" />
             <p className="mb-[4]">HTML</p>
           </div>
-
           <div className="shadow-md shadow-black hover:scale-110 duration-500">
-            <img className="w-40 mx-auto" src={CSS} alt="CSS icon" />
-            <p className="my-[-2]">CSS</p>
+            <img className="w-40 mx-auto " src={CSS} alt="CSS icon" />
+            <p className="mb-[4]">CSS</p>
           </div>
-
           <div className="shadow-md shadow-black hover:scale-110 duration-500">
             <img
-              className="w-40 mx-auto"
+              className="w-40 mx-auto "
               src={JavaScript}
               alt="JavaScript icon"
             />
-            <p className="my-[-2]">JavaScript</p>
+            <p className="mb-[4]">JavaScript</p>
           </div>
-
           <div className="shadow-md shadow-black hover:scale-110 duration-500">
-            <img className="w-40 mx-auto" src={React} alt="React icon" />
-            <p className="my-[-2]">React</p>
+            <img className="w-40 mx-auto " src={React} alt="React icon" />
+            <p className="mb-[4]">React</p>
           </div>
-
           <div className="shadow-md shadow-black hover:scale-110 duration-500">
-            <img className="w-40 mx-auto" src={Python} alt="Python icon" />
-            <p className="my-[-2]">Python</p>
+            <img className="w-40 mx-auto " src={Python} alt="Python icon" />
+            <p className="mb-[4]">Python</p>
           </div>
-
           <div className="shadow-md shadow-black hover:scale-110 duration-500">
-            <img className="w-40 mx-auto" src={NodeJS} alt="NodeJS icon" />
-            <p className="my-[-2]">NodeJS</p>
+            <img className="w-40 mx-auto " src={NodeJS} alt="NodeJS icon" />
+            <p className="mb-[4]">NodeJS</p>
           </div>
-
           <div className="shadow-md shadow-black hover:scale-110 duration-500">
-            <img className="w-40 mx-auto" src={APIs} alt="APIs icon" />
-            <p className="my-[-2]">APIs</p>
+            <img className="w-40 mx-auto " src={APIs} alt="APIs icon" />
+            <p className="mb-[4]">APIs</p>
           </div>
-
           <div className="shadow-md shadow-black hover:scale-110 duration-500">
-            <img className="w-40 mx-auto" src={AWS} alt="AWS icon" />
-            <p className="my-[-2]">AWS</p>
+            <img className="w-40 mx-auto " src={AWS} alt="AWS icon" />
+            <p className="mb-[4]">AWS</p>
           </div>
-
           <div className="shadow-md shadow-black hover:scale-110 duration-500">
-            <img className="w-40 mx-auto" src={Express} alt="Express icon" />
-            <p className="my-[-2]">Express</p>
+            <img className="w-40 mx-auto " src={Express} alt="Express icon" />
+            <p className="mb-[4]">Express</p>
           </div>
-
           <div className="shadow-md shadow-black hover:scale-110 duration-500">
-            <img className="w-40 mx-auto" src={MongoDB} alt="MongoDB icon" />
-            <p className="my-[-2]">MongoDB</p>
+            <img className="w-40 mx-auto " src={MongoDB} alt="MongoDB icon" />
+            <p className="mb-[4]">MongoDB</p>
           </div>
-
           <div className="shadow-md shadow-black hover:scale-110 duration-500">
-            <img className="w-40 mx-auto" src={Django} alt="Django icon" />
-            <p className="my-[-2]">Django</p>
+            <img className="w-40 mx-auto " src={Django} alt="Django icon" />
+            <p className="mb-[4]">Django</p>
           </div>
-
           <div className="shadow-md shadow-black hover:scale-110 duration-500">
             <img
               className="w-40 mx-auto "
               src={PostreSQL}
               alt="PostreSQL icon"
             />
-            <p className="my-[-2]">PostreSQL</p>
+            <p className="mb-[4]">PostreSQL</p>
           </div>
-          <p className="justify-center md:h-screen">And many more ...</p>
         </div>
       </div>
     </div>

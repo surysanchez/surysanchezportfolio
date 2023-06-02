@@ -6,20 +6,20 @@ import SweetTreats from "../assets/sweettreats.png";
 
 export default function Work() {
   return (
-    <div name="experience" className="w-full md:h-screen pt-8 mt-8 mb-4">
+    <div name="work" className="w-full md:h-screen md:pt-24 md:mt-24 mb-24 ">
       {/* bg-[#F2C14E] */}
       {/* Container  */}
 
-      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
+      <div className="max-w-[1000px] mx-auto p-0 flex flex-col justify-center w-full md:h-full">
         <div className="pb-8">
           <p className="text-3xl inline border-b-4 font-bold font-mono border-cyan-700 py-1 ">
             Work
           </p>
-          <p className="py-6"> // Check out some of my recent work</p>
+          <p className="py-4"> // Check out some of my recent work</p>
         </div>
 
         {/* Card Container  */}
-        <div className="grid sm:grid-cols-2 md:grid-cols-2 gap-4">
+        <div className="grid sm:grid-cols-2 md:grid-cols-2 gap-4 my-0 ">
           {/* Card Item */}
           <div
             style={{ backgroundImage: `url(${TrueFitness})` }}
