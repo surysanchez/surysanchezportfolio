@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div
       name="home"
-      className="w-full h-screen bg-[url('./assets/pol.webp')] "
+      className="w-full h-screen bg-[url('./assets/pol.webp')] mb-24 "
       style={{
         backgroundSize: "cover",
         backgroundRepeat: "no-repeat",

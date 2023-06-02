@@ -12,14 +12,14 @@ export default function Contact() {
       }}
     >
       <form
-        className="flex flex-col max-w-[600px] w-full"
+        className="flex flex-col max-w-[600px] w-full mb-24"
         action="https://getform.io/f/1118c7a9-61f6-4a86-82e7-1c2896d38209"
         method="POST"
         target="_blank"
         rel="noopener noreferrer"
       >
-        <div className="pb-8">
-          <p className="text-3xl inline border-b-4 font-semibold font-mono border-cyan-700 py-1">
+        <div className="pb-8 mt-8" >
+          <p className="text-3xl inline border-b-4 font-semibold font-mono border-cyan-700 py-1 mt-6">
             Contact
           </p>
           <p className="py-4 ">Send me a message or direct email </p>
@@ -55,7 +55,6 @@ export default function Contact() {
           Let's work together!
         </button>
         {/* </div> */}
-        
       </form>
     </div>
   );

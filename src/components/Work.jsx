@@ -4,22 +4,22 @@ import TrueFitness from "../assets/truefitness.png";
 import MarketUrself from "../assets/marketurself.png";
 import SweetTreats from "../assets/sweettreats.png";
 
-export default function Experience() {
+export default function Work() {
   return (
-    <div name="experience" className="w-full md:h-screen pt-8 mt-8 mb-4  pb-24">
+    <div name="experience" className="w-full md:h-screen pt-8 mt-8 mb-4">
       {/* bg-[#F2C14E] */}
       {/* Container  */}
 
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
-          <p className="text-3xl inline border-b-4  font-mono border-cyan-700 py-1 ">
+          <p className="text-3xl inline border-b-4 font-bold font-mono border-cyan-700 py-1 ">
             Work
           </p>
           <p className="py-6"> // Check out some of my recent work</p>
         </div>
 
         {/* Card Container  */}
-        <div className="grid sm:grid-cols-2 md:grid-cols-2 gap-6">
+        <div className="grid sm:grid-cols-2 md:grid-cols-2 gap-4">
           {/* Card Item */}
           <div
             style={{ backgroundImage: `url(${TrueFitness})` }}
@@ -114,9 +114,9 @@ export default function Experience() {
               </span>
               <p>
                 {" "}
-                Building memory muscle . Enjoy this app by flipping two cards
-                and check if they match . Still working on extra features and
-                levels .
+                Building memory muscle . Enjoy this app by flipping to cards and
+                check if they match . Still working on extra features and levels
+                .
               </p>
               <div className="pt-8 text-center">
                 <a

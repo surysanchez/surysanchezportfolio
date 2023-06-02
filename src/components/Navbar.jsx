@@ -52,7 +52,7 @@ export default function Navbar() {
         <li>
           {" "}
           <Link to="experience" smooth={true} duration={500}>
-            Experience
+            Work
           </Link>
         </li>
         <li>

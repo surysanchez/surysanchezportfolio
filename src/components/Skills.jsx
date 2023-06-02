@@ -15,7 +15,10 @@ import PostreSQL from "../assets/postresql.png";
 // bg-[url('./assets/pol.webp')]
 export default function Skills() {
   return (
-    <div name="skills" className="w-full md:h-screen bg-[#FC4BBB8] pt-10 mt-8  sm:pt-24 md:pt-24"  >
+    <div
+      name="skills"
+      className="w-full md:h-screen bg-pink-300 mt-24 sm:pt-24 md:pt-24 sm:pb-0  sm:mb-0"
+    >
       {/* Container */}
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div>
@@ -28,10 +31,10 @@ export default function Skills() {
           </p>
         </div>
         {/* Icons's Container */}
-        <div className="w-full grid grid-cols-3 sm:grid-cols-6 gap-4 text-center py-6">
+        <div className="w-full grid   bg-blue-400 md:grid-rows-3 grid-cols-3 sm:grid-cols-4 gap-4 text-center py-6">
           <div className="shadow-md shadow-black hover:scale-110 duration-500">
             <img className="w-40 mx-auto " src={HTML} alt="HTML icon" />
-            <p className="my-[-2]">HTML</p>
+            <p className="mb-[4]">HTML</p>
           </div>
 
           <div className="shadow-md shadow-black hover:scale-110 duration-500">
