@@ -4,7 +4,7 @@ export default function Contact() {
   return (
     <div
       name="contact"
-      className="w-full md:h-screen flex justify-center items-center py-4  bg-[#F2C14E] md:mt-24 md:pt-24  "
+      className="w-full md:h-screen flex justify-center items-center py-2  bg-[#F2C14E] md:mt-24 md:pt-24 md:mb-2"
       style={{
         backgroundSize: "cover",
         backgroundRepeat: "no-repeat",
@@ -12,7 +12,7 @@ export default function Contact() {
       }}
     >
       <form
-        className="flex flex-col max-w-[600px] w-full "
+        className="flex flex-col max-w-[600px] h-full w-full "
         action="https://getform.io/f/1118c7a9-61f6-4a86-82e7-1c2896d38209"
         method="POST"
         target="_blank"
@@ -48,7 +48,7 @@ export default function Contact() {
         />
         {/* <div pt-8 text-center> */}
         <button
-          className="border-4 border-[#1B998B] bg-gradient-to-r from-cyan-500 to-pink-500 hover:bg-[#1B998B] hover:border-white px-4 py-3 my-8 mx-auto md:flex items-center "
+          className="border-4 border-[#1B998B] bg-gradient-to-r from-cyan-500 to-pink-500 hover:bg-[#1B998B] hover:border-white px-4 py-3 my-8 mx-auto md:flex items-center mt-4 "
           type="submit"
           required
         >

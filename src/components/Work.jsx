@@ -10,7 +10,7 @@ export default function Work() {
       {/* bg-[#F2C14E] */}
       {/* Container  */}
 
-      <div className="max-w-[1000px] mx-auto p-0 flex flex-col justify-center w-full md:h-full">
+      <div className="max-w-[1000px] mx-auto p-0 flex flex-col justify-center md:w-full md:h-full">
         <div className="pb-8">
           <p className="text-3xl inline border-b-4 font-bold font-mono border-cyan-700 py-1 ">
             Work
