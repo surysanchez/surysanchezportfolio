@@ -10,7 +10,7 @@ export default function Footer() {
         .
       </p>
 
-      <button className="flex bg-cyan-600 text-white hover:bg-pink-500 ">
+      <button className="flex bg-cyan-600 text-white hover:bg-pink-500  ">
         <Link to="home" smooth={true} duration={500}>
           <BsArrowUp size={30} />{" "}
         </Link>

@@ -12,13 +12,13 @@ export default function Contact() {
       }}
     >
       <form
-        className="flex flex-col max-w-[600px] h-full w-full "
+        className="flex flex-col max-w-[600px] h-full w-full mb-4 "
         action="https://getform.io/f/1118c7a9-61f6-4a86-82e7-1c2896d38209"
         method="POST"
         target="_blank"
         rel="noopener noreferrer"
       >
-        <div className="pb-8 mt-8">
+        <div className="pb-0 mt-0 ">
           <p className="text-3xl inline border-b-4 font-semibold font-mono border-cyan-700 py-1 mt-6">
             Contact
           </p>
@@ -38,17 +38,17 @@ export default function Contact() {
           placeholder="Email"
           required
         />
-        <textarea
-          className="my-4 p-2  border-2 border-[#605022] rounded-md"
+        <input
+          className="my-4 p-8  border-2 border-[#605022] rounded-md"
           type="text"
-          rows="6"
+          rows="10"
           name="message"
           required
           placeholder="Message"
         />
         {/* <div pt-8 text-center> */}
         <button
-          className="border-4 border-[#1B998B] bg-gradient-to-r from-cyan-500 to-pink-500 hover:bg-[#1B998B] hover:border-white px-4 py-3 my-8 mx-auto md:flex items-center mt-4 "
+          className="border-4 border-[#1B998B] bg-gradient-to-r from-cyan-500 to-pink-500 hover:bg-[#1B998B] hover:border-white px-4 py-3 my-8 mx-auto md:flex items-center mt-2 "
           type="submit"
           required
         >
