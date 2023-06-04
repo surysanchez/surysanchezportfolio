@@ -85,6 +85,7 @@ export default function Skills() {
             <p className="mb-[4]">PostreSQL</p>
           </div>
         </div>
+        <p className="flex justify-center align-center">And many more ...</p>
       </div>
     </div>
   );
