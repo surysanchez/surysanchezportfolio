@@ -159,7 +159,11 @@ export default function Work() {
                 surprises available to enjoy on any ocassion .
               </p>
               <div className="pt-8 text-center">
-                <a href="/" target="_blank" rel="noopener noreferrer">
+                <a
+                  href="https://sweetcreations.herokuapp.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600  text-lg">
                     Demo
                   </button>
