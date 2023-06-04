@@ -26,7 +26,7 @@ export default function Home() {
         </h3>
         <div>
           <button className="text-lg group font-mono text-[#605022] max-w-[700px] border-4 border-cyan-600 px-4 py-3 my-3 flex items-center hover:bg-[#F2C14E] hover:border-[#F2C14E] ">
-            <Link to="experience" smooth={true} duration={500}>
+            <Link to="work" smooth={true} duration={500}>
               View my Work
             </Link>
             <span className="group-hover:rotate-90 duration-300">

@@ -15,7 +15,7 @@ export default function About() {
         </div>
         <div className="max-w-[1000px] w-full px-4 grid sm:grid-cols-2 gap-8  mb-24 ">
           <div className="sm:text-right text-3xl font-semibold text-[#605022]">
-            <p className=" md:mt-26  justify-center border-r-4  border-4 border-[#F2C14E] border-spacing-2 py-6 px-6">
+            <p className=" md:mt-26 justify-center border-r-4  border-4 border-[#F2C14E] border-spacing-2 py-6 px-6">
               {" "}
               Hi. Please call me Sury , nice to meet you. <br /> Glad you are
               here!{" "}
@@ -26,7 +26,7 @@ export default function About() {
               maxHeight={200}
               className="sm:text-sm font-bold md:text-xl text-[#705022]"
             > */}
-            <p className="sm:text-sm font-bold md:text-[17px] text-[#705022]">
+            <p className="sm:text-sm font-bold md:text-[17px] text-[#705022] lg:text-lg">
               I'm based on Miami , FL. With a backgound in real estate for the
               past two years , awarded me with great communication skills help
               me better understand people's needs and problem-solving mindset as
