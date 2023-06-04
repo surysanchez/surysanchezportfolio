@@ -1,5 +1,7 @@
 import React from "react";
 import ShowMore from "react-show-more-button";
+// import Pic from "../assets/pic.JPG";
+import Pic from "../assets/mypic.jpg";
 
 export default function About() {
   return (
@@ -20,29 +22,36 @@ export default function About() {
               Hi. Please call me Sury , nice to meet you. <br /> Glad you are
               here!{" "}
             </p>
+            <br />
+            <img
+              className="rounded-md flex justify-center align-center ml-24"
+              style={{ width: "210px", height: "270px" }}
+              src={Pic}
+              alt=""
+            />
           </div>
           <div>
             {/* <ShowMore
               maxHeight={200}
               className="sm:text-sm font-bold md:text-xl text-[#705022]"
             > */}
-            <p className="sm:text-sm font-bold md:text-[17px] text-[#705022] lg:text-lg">
-              I'm based on Miami , FL. With a backgound in real estate for the
-              past two years , awarded me with great communication skills help
-              me better understand people's needs and problem-solving mindset as
-              part of my work . Besides staying up to date with latest
-              technologies and applications to better assist my clients honed me
-              a vast knowledge . While I enjoyed my past career , technolgy
-              stood to win , many clients are founding more convenient to sell
-              and buy properties online . <br /> <br /> Having a curious and
-              creative nature for finding innovating solutions to keep helping
-              my society , I found my true passion for developing. I started
-              teaching myself the basics of programing . Consequently I
-              completed an Inmersive Software Engineer Program at General
-              Assembly , where I acquired numerous skills , built several
-              functional projects and obtained a self growth mindset to work as
-              a developer . I have prodly become a full stack software enginner
-              and I'm continuosly learning and evolving my skills .
+            <p className="sm:text-sm font-bold md:text-[17px]  lg:text-lg">
+              I'm based on South FL. With a backgound in real estate for the
+              past two years , which contributed to possess great communication
+              skills and helped me better understand people's needs and
+              problem-solving mindset as part of my work . Besides staying up to
+              date with latest technologies and applications to better assist my
+              clients honed me a vast knowledge . While I enjoyed my past career
+              , technolgy is a powerfull tool , many clients are founding more
+              convenient to sell and buy properties online . <br /> <br />{" "}
+              Having a curious and creative nature for finding innovating
+              solutions to keep helping my society , I found my true passion for
+              developing. I started teaching myself the basics of programing .
+              Consequently I completed an Inmersive Software Engineer Program at
+              General Assembly , where I acquired numerous skills , built
+              several functional projects and obtained a self growth mindset to
+              work as a developer . I have prodly become a full stack software
+              enginner and I'm continuosly learning and evolving my skills .
             </p>
             {/* </ShowMore> */}
           </div>
