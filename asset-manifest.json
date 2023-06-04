@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/surysanchezportfolio/static/css/main.11cdb750.css",
-    "main.js": "/surysanchezportfolio/static/js/main.abd85bd7.js",
+    "main.js": "/surysanchezportfolio/static/js/main.1b852d42.js",
     "static/media/sweettreats.png": "/surysanchezportfolio/static/media/sweettreats.ba567c52dcbfb0ee3132.png",
     "static/media/truefitness.png": "/surysanchezportfolio/static/media/truefitness.b0592f22a45f1682bbae.png",
     "static/media/marketurself.png": "/surysanchezportfolio/static/media/marketurself.72a15137d6aea8e2bf6b.png",
@@ -23,10 +23,10 @@
     "static/media/javascript.png": "/surysanchezportfolio/static/media/javascript.e7346a1bfe1203261b76.png",
     "index.html": "/surysanchezportfolio/index.html",
     "main.11cdb750.css.map": "/surysanchezportfolio/static/css/main.11cdb750.css.map",
-    "main.abd85bd7.js.map": "/surysanchezportfolio/static/js/main.abd85bd7.js.map"
+    "main.1b852d42.js.map": "/surysanchezportfolio/static/js/main.1b852d42.js.map"
   },
   "entrypoints": [
     "static/css/main.11cdb750.css",
-    "static/js/main.abd85bd7.js"
+    "static/js/main.1b852d42.js"
   ]
 }
