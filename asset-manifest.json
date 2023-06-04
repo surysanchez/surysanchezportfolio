@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/surysanchezportfolio/static/css/main.11cdb750.css",
-    "main.js": "/surysanchezportfolio/static/js/main.1b852d42.js",
+    "main.css": "/surysanchezportfolio/static/css/main.c517f3cb.css",
+    "main.js": "/surysanchezportfolio/static/js/main.373386ad.js",
     "static/media/sweettreats.png": "/surysanchezportfolio/static/media/sweettreats.ba567c52dcbfb0ee3132.png",
     "static/media/truefitness.png": "/surysanchezportfolio/static/media/truefitness.b0592f22a45f1682bbae.png",
     "static/media/marketurself.png": "/surysanchezportfolio/static/media/marketurself.72a15137d6aea8e2bf6b.png",
@@ -22,11 +22,11 @@
     "static/media/express.png": "/surysanchezportfolio/static/media/express.3a122c80decebbbcdf5b.png",
     "static/media/javascript.png": "/surysanchezportfolio/static/media/javascript.e7346a1bfe1203261b76.png",
     "index.html": "/surysanchezportfolio/index.html",
-    "main.11cdb750.css.map": "/surysanchezportfolio/static/css/main.11cdb750.css.map",
-    "main.1b852d42.js.map": "/surysanchezportfolio/static/js/main.1b852d42.js.map"
+    "main.c517f3cb.css.map": "/surysanchezportfolio/static/css/main.c517f3cb.css.map",
+    "main.373386ad.js.map": "/surysanchezportfolio/static/js/main.373386ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.11cdb750.css",
-    "static/js/main.1b852d42.js"
+    "static/css/main.c517f3cb.css",
+    "static/js/main.373386ad.js"
   ]
 }
