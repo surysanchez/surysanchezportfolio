@@ -92,13 +92,8 @@ export default function Navbar() {
           </Link>
         </li>
         <li className="py-6 text-4xl">
-          <Link
-            onClick={handleClick}
-            to="experience"
-            smooth={true}
-            duration={500}
-          >
-            Experience
+          <Link onClick={handleClick} to="work" smooth={true} duration={500}>
+            Work
           </Link>
         </li>
         <li className="py-6 text-4xl">
@@ -114,7 +109,7 @@ export default function Navbar() {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600 text-white">
             <a
               className="flex justify-between items-center w-full text-300"
-              href="https://www.linkedin.com/in/sury-sanchez-software-engineer/"
+              href="https://docs.google.com/document/d/1-8cQrCO0bxU0yj3n3f0uxlGCnxOYIWbDsNlxRT58loM/edit?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
