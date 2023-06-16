@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/surysanchezportfolio/static/css/main.943ddaed.css",
-    "main.js": "/surysanchezportfolio/static/js/main.2a61d80e.js",
+    "main.js": "/surysanchezportfolio/static/js/main.12543429.js",
     "static/media/sweettreats.png": "/surysanchezportfolio/static/media/sweettreats.ba567c52dcbfb0ee3132.png",
     "static/media/truefitness.png": "/surysanchezportfolio/static/media/truefitness.b0592f22a45f1682bbae.png",
     "static/media/marketurself.png": "/surysanchezportfolio/static/media/marketurself.72a15137d6aea8e2bf6b.png",
     "static/media/mypic.jpg": "/surysanchezportfolio/static/media/mypic.8d90818a575b04b057ce.jpg",
     "static/media/game.png": "/surysanchezportfolio/static/media/game.c6db7c7b5076009f95ac.png",
-    "static/media/SurelySanchezSoftware Developer-Corriculum.pdf": "/surysanchezportfolio/static/media/SurelySanchezSoftware Developer-Corriculum.2b600e94bfca7133babb.pdf",
+    "static/media/SurelySanchezSoftwareDeveloperResume.pdf": "/surysanchezportfolio/static/media/SurelySanchezSoftwareDeveloperResume.9e5613a18c4bdda4d8e3.pdf",
     "static/media/waves.webp": "/surysanchezportfolio/static/media/waves.11652a642dc4e7f56474.webp",
     "static/media/api.png": "/surysanchezportfolio/static/media/api.4560f980164fe7174313.png",
     "static/media/postresql.png": "/surysanchezportfolio/static/media/postresql.917641916d3dff12d544.png",
@@ -24,10 +24,10 @@
     "static/media/javascript.png": "/surysanchezportfolio/static/media/javascript.e7346a1bfe1203261b76.png",
     "index.html": "/surysanchezportfolio/index.html",
     "main.943ddaed.css.map": "/surysanchezportfolio/static/css/main.943ddaed.css.map",
-    "main.2a61d80e.js.map": "/surysanchezportfolio/static/js/main.2a61d80e.js.map"
+    "main.12543429.js.map": "/surysanchezportfolio/static/js/main.12543429.js.map"
   },
   "entrypoints": [
     "static/css/main.943ddaed.css",
-    "static/js/main.2a61d80e.js"
+    "static/js/main.12543429.js"
   ]
 }
