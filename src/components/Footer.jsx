@@ -53,7 +53,7 @@ export default function Footer() {
               <li>
                 <a
                   class="mr-4 hover:underline md:mr-6"
-                  href="https://docs.google.com/document/d/1XXkmsW0nhj8ta_VvYLvV7VspRWIQdrvGIxUJKRmC1Uw/edit?usp=sharing"
+                  href="https://docs.google.com/document/d/1mUv7YHmsR5A5jXdv6wQRzKg-O5hcUMDAvWpiRgf1vI4/edit?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   alt=""
