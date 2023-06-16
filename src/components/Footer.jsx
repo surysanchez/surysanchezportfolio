@@ -17,8 +17,11 @@ export default function Footer() {
   return (
     <>
       <footer class="bg-white rounded-lg shadow dark:bg-gray-900 m-4">
-        <div class="w-full max-w-screen-xl mx-auto p-4 md:py-8 md:justify-center sm:justify-center align-center">
-          <div class="sm:flex sm:items-center sm:justify-center align-center ">
+        <div
+          class="
+          w-full max-w-screen-xl mx-auto p-4 md:py-8 md:justify-center sm:justify-center align-center"
+        >
+          <div class=" lg:hidden sm:flex sm:items-center sm:justify-center align-center ">
             <ul class="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500  dark:text-gray-400">
               <li>
                 <a
