@@ -52,7 +52,8 @@ export default function About() {
               Engineer Program at General Assembly, where I acquired numerous
               skills, built several functional projects and obtained a
               self-growth mindset to work as a developer. I have proudly become
-              a full-stack software
+              a full-stack software engineer and continue to learnig and
+              evolving my knowledge.
             </p>
             {/* </ShowMore> */}
           </div>
