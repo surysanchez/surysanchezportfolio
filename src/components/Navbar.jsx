@@ -10,7 +10,7 @@ import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import Logo from "../assets/logo.png";
 import { Link } from "react-scroll";
-import Resume from "../assets/SurelySanchezSoftware Developer-Corriculum.pdf";
+import Resume from "../assets/Surely Sanchez SoftwareDeveloperResume.pdf";
 
 export default function Navbar() {
   const [nav, setNav] = useState(false);
@@ -109,7 +109,7 @@ export default function Navbar() {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600 text-white">
             <a
               className="flex justify-between items-center w-full text-300"
-              href="https://docs.google.com/document/d/1-8cQrCO0bxU0yj3n3f0uxlGCnxOYIWbDsNlxRT58loM/edit?usp=sharing"
+              href="    https://www.linkedin.com/in/sury-sanchez-software-engineer/    "
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -139,7 +139,7 @@ export default function Navbar() {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-cyan-500 text-white">
             <a
               className="flex justify-between items-center w-full text-300"
-              href="https://docs.google.com/document/d/1XXkmsW0nhj8ta_VvYLvV7VspRWIQdrvGIxUJKRmC1Uw/edit?usp=sharing"
+              href="https://docs.google.com/document/d/1mUv7YHmsR5A5jXdv6wQRzKg-O5hcUMDAvWpiRgf1vI4/edit?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               alt=""
