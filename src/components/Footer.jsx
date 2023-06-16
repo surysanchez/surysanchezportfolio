@@ -10,7 +10,7 @@ import {
 } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
-import Resume from "../assets/SurelySanchezSoftware Developer-Corriculum.pdf";
+import Resume from "../assets/SurelySanchezSoftwareDeveloperResume.pdf";
 import Logo from "../assets/logo.png";
 
 export default function Footer() {
