@@ -12,14 +12,14 @@ export default function Contact() {
       }}
     >
       <form
-        className="flex flex-col max-w-[600px] h-full w-full mb-4 "
+        className="flex ml-4 flex-col max-w-[600px] h-full w-full mb-4 "
         action="https://getform.io/f/1118c7a9-61f6-4a86-82e7-1c2896d38209"
         method="POST"
         target="_blank"
         rel="noopener noreferrer"
       >
         <div className="pb-0 mt-0 ">
-          <p className="text-3xl inline border-b-4 font-semibold font-mono border-cyan-700 py-1 mt-6">
+          <p className="text-3xl inline border-b-4 font-semibold font-mono border-cyan-700 py-1 mt-6 ">
             Contact
           </p>
           <p className="py-4 ">Send me a message or direct email </p>

@@ -1,12 +1,12 @@
 import React from "react";
 import ShowMore from "react-show-more-button";
 // import Pic from "../assets/pic.JPG";
-import Pic from "../assets/mypic.jpg";
+import Pic from "../assets/profile.png";
 
 export default function About() {
   return (
     <div name="about" className="w-full md:h-screen ">
-      <div className="flex flex-col justify-center items-center w-full h-full  md:pb-24">
+      <div className="flex flex-col justify-center items-center w-full h-full  md:pb-24 lg:mt-24 md:mt-24 md:pt-24 ">
         <div className="max-w-[1000px] w-full px-4 grid grid-cols-2 gap-8 ">
           <div className="sm:text-right pb-8 pl-4 ">
             <p className="text-3xl inline border-b-4  font-semibold font-mono border-cyan-700 py-1 ">
@@ -24,9 +24,9 @@ export default function About() {
             </p>
             <br />
             <img
-              className="rounded-md flex justify-center align-center ml-24"
-              style={{ width: "210px", height: "270px" }}
+              className="rounded-md sm:text-center flex justify-center align-center ml-24 grid-cols-1 mr-8"
               src={Pic}
+              style={{ width: "80%", height: "60%" }}
               alt=""
             />
           </div>
@@ -55,6 +55,17 @@ export default function About() {
               a full-stack software engineer and continue to learnig and
               evolving my knowledge.
             </p>
+            <button className="text-lg group font-mono text-[#605022] max-w-[700px] border-4 border-cyan-600 px-4 py-3 my-3 flex items-center hover:bg-[#F2C14E] hover:border-[#F2C14E] ">
+              <a
+                className="flex justify-between items-center w-full text-300"
+                href="https://docs.google.com/document/d/1LAEHZx4JIRnYQn7C4yql3TpQ4ZEpispkong1Vg38gH0/edit?usp=sharing"
+                target="_blank"
+                rel="noopener noreferrer"
+                alt=""
+              >
+                Resume
+              </a>
+            </button>
             {/* </ShowMore> */}
           </div>
         </div>

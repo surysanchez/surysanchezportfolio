@@ -12,14 +12,14 @@ export default function Work() {
 
       <div className="max-w-[1000px] mx-auto p-0 flex flex-col justify-center md:w-full md:h-full">
         <div className="pb-8">
-          <p className="text-3xl inline border-b-4 font-bold font-mono border-cyan-700 py-1 ">
+          <p className="text-3xl inline border-b-4 font-bold font-mono border-cyan-700 py-1 ml-4">
             Work
           </p>
-          <p className="py-4"> // Check out some of my recent work</p>
+          <p className="py-4 ml-4"> // Check out some of my recent work</p>
         </div>
 
         {/* Card Container  */}
-        <div className="grid sm:grid-cols-2 md:grid-cols-2 gap-4 my-0 ">
+        <div className="grid sm:grid-cols-2 md:grid-cols-2 gap-4 my-0 ml-4">
           {/* Card Item */}
           <div
             style={{ backgroundImage: `url(${TrueFitness})` }}

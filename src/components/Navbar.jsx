@@ -139,7 +139,7 @@ export default function Navbar() {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-cyan-500 text-white">
             <a
               className="flex justify-between items-center w-full text-300"
-              href="https://docs.google.com/document/d/1mUv7YHmsR5A5jXdv6wQRzKg-O5hcUMDAvWpiRgf1vI4/edit?usp=sharing"
+              href="https://docs.google.com/document/d/1LAEHZx4JIRnYQn7C4yql3TpQ4ZEpispkong1Vg38gH0/edit?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               alt=""
@@ -147,7 +147,7 @@ export default function Navbar() {
               Resume <BsFillPersonLinesFill size={30} />{" "}
             </a>
           </li>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-gradient-to-r from-cyan-500 to-pink-500 text-white">
+          {/* <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-gradient-to-r from-cyan-500 to-pink-500 text-white">
             <a
               className="flex justify-between items-center w-full text-300"
               // href="./assets/SurelySanchezSoftware Developer-Corriculum.pdf"
@@ -159,7 +159,7 @@ export default function Navbar() {
             >
               Download Resume <FaDownload size={30} />{" "}
             </a>
-          </li>
+          </li> */}
         </ul>
       </div>
     </div>
