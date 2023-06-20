@@ -15,18 +15,18 @@ export default function About() {
           </div>
           <div></div>
         </div>
-        <div className="max-w-[1000px] w-full px-4 grid sm:grid-cols-2 gap-8  mb-24 ">
+        <div className="max-w-[1000px] w-full px-4 grid sm:grid-cols-2 gap-12  mb-24 ">
           <div className="sm:text-right text-3xl font-semibold text-[#605022]">
-            <p className=" md:mt-26 justify-center border-r-4  border-4 border-[#F2C14E] border-spacing-2 py-6 px-6">
+            <p className=" md:mt-26 justify-center border-r-4 border-4 border-[#F2C14E] border-spacing-2 py-6 px-6 lg:p-12">
               {" "}
               Hi. Please call me Sury , nice to meet you. <br /> Glad you are
               here!{" "}
             </p>
             <br />
             <img
-              className="rounded-md sm:text-center flex justify-center align-center ml-24 grid-cols-1 mr-8"
+              className="rounded-md sm:text-center flex justify-start align-center ml-24 grid-cols-1 mr-8 p-8 sm:w-60%"
               src={Pic}
-              style={{ width: "80%", height: "60%" }}
+              style={{ width: "84%", height: "60%" }}
               alt=""
             />
           </div>

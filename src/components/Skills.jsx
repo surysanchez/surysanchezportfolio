@@ -15,7 +15,7 @@ import PostreSQL from "../assets/postresql.png";
 // bg-[url('./assets/pol.webp')]
 export default function Skills() {
   return (
-    <div name="skills" className="w-full h-screen  mb-24 ">
+    <div name="skills" className="w-full h-screen  mb-24 md:pt-24 lg:pt-24">
       {/* Container */}
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div>
