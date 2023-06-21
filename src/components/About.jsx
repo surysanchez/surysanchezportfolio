@@ -36,24 +36,24 @@ export default function About() {
               className="sm:text-sm font-bold md:text-xl text-[#705022]"
             > */}
             <p className="sm:text-sm font-bold md:text-[17px]  lg:text-lg">
-              I'm based in South FL. With a background in real estate for the
-              past two years, which contributed to me to possess great
-              communication skills, understanding people's needs and having a
-              problem-solving mindset has been part of my work. Besides staying
-              up to date with the latest software and applications to better
-              assist my clients honed a vast knowledge of technology. While I
-              enjoyed my past career, technology is a powerful tool, many
-              clients are founding it more convenient to sell and buy properties
-              online. <br /> <br />
-              Having a curious and creative nature for finding innovative
-              solutions to keep helping my clients and my colleagues, I found my
-              true passion for developing. I started teaching myself the basics
-              of programming. Consequently, I completed an Inmersive Software
-              Engineer Program at General Assembly, where I acquired numerous
-              skills, built several functional projects and obtained a
-              self-growth mindset to work as a developer. I have proudly become
-              a full-stack software engineer and continue to learnig and
-              evolving my knowledge.
+              I’m based in South Florida. I am a curious and creative person who
+              likes to create innovative solutions using technology. I started
+              teaching myself the basics of programming in 2022 using Udemy and
+              FreeCodeCamp. And this year, I enrolled in and completed an
+              intensive 3-month immersive Software Engineering Program at
+              General Assembly. In that program, I learned full-stack
+              development and built several functional projects individually and
+              colaborating as part of a group. I love to learn and improve my
+              skills continuously to keep up-to-date with evolving technology.{" "}
+              <br /> <br />
+              Until recently, I worked in real estate as a sales associate. My
+              approach has always been to provide high-quality services by
+              understanding my clients’ needs and finding properties based on
+              their goals and timeline. But, I noticed that many clients found
+              selling and buying properties using technology more convenient.
+              This observation sparked my passion for software development and
+              my journey toward contributing to making people’s lives more
+              pleasant.
             </p>
             <button className="text-lg group font-mono text-[#605022] max-w-[700px] border-4 border-cyan-600 px-4 py-3 my-3 flex items-center hover:bg-[#F2C14E] hover:border-[#F2C14E] ">
               <a
