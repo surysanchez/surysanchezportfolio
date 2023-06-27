@@ -65,12 +65,12 @@ export default function Skills() {
             <p className="mb-[4]">AWS</p>
           </div>
           <div className="shadow-md shadow-black hover:scale-110 duration-500">
-            <img className="w-40 mx-auto " src={Express} alt="Express icon" />
-            <p className="mb-[4]">Express</p>
+            <img className="w-40 mx-auto mt-8" src={Express} alt="Express icon" />
+            <p className=" mt-16">Express</p>
           </div>
           <div className="shadow-md shadow-black hover:scale-110 duration-500">
             <img className="w-40 mx-auto " src={MongoDB} alt="MongoDB icon" />
-            <p className="mb-[4]">MongoDB</p>
+            <p className="mb-[4] mt-14">MongoDB</p>
           </div>
           <div className="shadow-md shadow-black hover:scale-110 duration-500">
             <img className="w-40 mx-auto " src={Django} alt="Django icon" />

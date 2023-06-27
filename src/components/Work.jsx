@@ -27,15 +27,18 @@ export default function Work() {
           >
             {/* Hover effect */}
             <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl text-[#605022] tracking-wider bg-gradient-to-r from-cyan-500 to-pink-500">
+              <span className="text-2xl text-[#605022] tracking-wider bg-gradient-to-r from-cyan-500 to-pink-500 ">
                 TRUE FITNESS
               </span>
-              <p className="text-sm">
+              <p className="text-sm p-2">
                 {" "}
-                This app is still a work in progress . Essentially is a
-                combination of workouts and healthy recipes to help users
-                achieve their goals . Besides includes comments and reviews and
-                the ability to share your own recipes or workouts .
+                Created full-stack application utilizing technologies such as
+                Node JS and Express forming the backend. Utilized EJS templates
+                to render a combination of workouts and healthy recipes as the
+                front side interface and allow users to create, read, update,
+                and delete operations hitting all RESTful API calls. Employed
+                Mongoose database to preserve application data, and Google OAuth
+                secured user’s data.
               </p>
 
               <div className="pt-8 text-center">
@@ -72,11 +75,13 @@ export default function Work() {
               <span className="text-2xl text-[#605022] tracking-wider bg-gradient-to-r from-cyan-500 to-pink-500">
                 MARKET URSELF
               </span>
-              <p>
-                Interested in supporting an small busines . Visit our app which
-                allow local sellers to expose their products online to all the
-                buyers . You can become a seller as well . Create your own table
-                and enjoy happy selling !
+              <p className="text-sm p-2">
+                Interested in supporting an small busines . Visit our full-stack
+                app which allow local sellers to expose their products online to
+                all buyers .Implemented Python for user interface, Django, and
+                PostgreSQL to connect features and functionality available on
+                the app with the front end. Applied Materialize CSS to offer a
+                dynamic user experience.
               </p>
               <div className="pt-8 text-center">
                 <a
@@ -112,11 +117,12 @@ export default function Work() {
               <span className="text-2xl text-[#605022] tracking-wider bg-gradient-to-r from-cyan-500 to-pink-500">
                 MEMORY MATCHES
               </span>
-              <p>
+              <p className="text-sm p-2">
                 {" "}
-                Building memory muscle . Enjoy this app by flipping to cards and
-                check if they match . Still working on extra features and levels
-                .
+                Building memory muscle .Designed a memory card game using
+                standard HTML and CSS displaying the structure and design
+                Constructed the logic and performance of the app by applying
+                JavaScript. Hosted live on GitHub Pages. .
               </p>
               <div className="pt-8 text-center">
                 <a
@@ -152,22 +158,23 @@ export default function Work() {
               <span className="text-2xl text-[#605022] tracking-wider bg-gradient-to-r from-cyan-500 to-pink-500">
                 SWEET TREATS
               </span>
-              <p>
-                Inspired about helping grow my cousin's small business , I
-                developped a special and detailed website , where all visitants
-                and users are able to view multiple differents treats and custom
-                surprises available to enjoy on any ocassion .
+              <p className="text-sm p-2">
+                Inspired about helping grow an small business ,I developed a
+                tailored functional MERN-full stack e-commerce website to help
+                grow a small business, holds full CRUD functionality, where all
+                users can create, read, update, and delete their custom cakes.
               </p>
               <div className="pt-8 text-center">
-                <a
+                We'll be available soon
+                {/* <a
                   href="https://sweetcreations.herokuapp.com/"
                   target="_blank"
                   rel="noopener noreferrer"
-                >
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600  text-lg">
+                > */}
+                {/* <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600  text-lg">
                     Demo
-                  </button>
-                </a>
+                  </button> */}
+                {/* </a> */}
                 <a
                   href="https://github.com/surysanchez/sweet-treats-creations"
                   target="_blank"

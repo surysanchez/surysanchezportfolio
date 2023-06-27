@@ -24,7 +24,7 @@ export default function About() {
             </p>
             <br />
             <img
-              className="rounded-md sm:text-center flex justify-start align-center ml-24 grid-cols-1 mr-8 p-8 sm:w-60%"
+              className="rounded-md sm:text-center flex justify-start align-center ml-24 grid-cols-1 mr-8 p-8 sm:w-60% sm:pl-2 sm:ml-12"
               src={Pic}
               style={{ width: "84%", height: "60%" }}
               alt=""
