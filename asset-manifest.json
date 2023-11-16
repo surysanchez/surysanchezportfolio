@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/surysanchezportfolio/static/css/main.0c76ec6b.css",
-    "main.js": "/surysanchezportfolio/static/js/main.231cf3f9.js",
+    "main.css": "/surysanchezportfolio/static/css/main.0b94a5f3.css",
+    "main.js": "/surysanchezportfolio/static/js/main.3b8ca394.js",
     "static/media/sweettreats.png": "/surysanchezportfolio/static/media/sweettreats.ba567c52dcbfb0ee3132.png",
     "static/media/truefitness.png": "/surysanchezportfolio/static/media/truefitness.b0592f22a45f1682bbae.png",
     "static/media/marketurself.png": "/surysanchezportfolio/static/media/marketurself.72a15137d6aea8e2bf6b.png",
     "static/media/game.png": "/surysanchezportfolio/static/media/game.c6db7c7b5076009f95ac.png",
     "static/media/profile.png": "/surysanchezportfolio/static/media/profile.ed4c9cad2a340adfafa4.png",
-    "static/media/waves.webp": "/surysanchezportfolio/static/media/waves.11652a642dc4e7f56474.webp",
     "static/media/SurelySanchezSoftwareDeveloperResume.pdf": "/surysanchezportfolio/static/media/SurelySanchezSoftwareDeveloperResume.d5c11ea7869ab2d47efc.pdf",
     "static/media/api.png": "/surysanchezportfolio/static/media/api.4560f980164fe7174313.png",
     "static/media/postresql.png": "/surysanchezportfolio/static/media/postresql.917641916d3dff12d544.png",
@@ -23,11 +22,11 @@
     "static/media/mongodb.png": "/surysanchezportfolio/static/media/mongodb.39c8355a03f0e23b14aa.png",
     "static/media/javascript.png": "/surysanchezportfolio/static/media/javascript.e7346a1bfe1203261b76.png",
     "index.html": "/surysanchezportfolio/index.html",
-    "main.0c76ec6b.css.map": "/surysanchezportfolio/static/css/main.0c76ec6b.css.map",
-    "main.231cf3f9.js.map": "/surysanchezportfolio/static/js/main.231cf3f9.js.map"
+    "main.0b94a5f3.css.map": "/surysanchezportfolio/static/css/main.0b94a5f3.css.map",
+    "main.3b8ca394.js.map": "/surysanchezportfolio/static/js/main.3b8ca394.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c76ec6b.css",
-    "static/js/main.231cf3f9.js"
+    "static/css/main.0b94a5f3.css",
+    "static/js/main.3b8ca394.js"
   ]
 }
