@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/surysanchezportfolio/static/css/main.f7bc8eec.css",
-    "main.js": "/surysanchezportfolio/static/js/main.c2b3b99e.js",
+    "main.css": "/surysanchezportfolio/static/css/main.fc4d4a0b.css",
+    "main.js": "/surysanchezportfolio/static/js/main.f5c38e86.js",
     "static/media/profile.png": "/surysanchezportfolio/static/media/profile.ff49970858c94151d953.png",
     "static/media/tastymaria.png": "/surysanchezportfolio/static/media/tastymaria.81697fa987eaff1d528e.png",
     "static/media/sweettreats.png": "/surysanchezportfolio/static/media/sweettreats.ba567c52dcbfb0ee3132.png",
     "static/media/truefitness.png": "/surysanchezportfolio/static/media/truefitness.b0592f22a45f1682bbae.png",
     "static/media/marketurself.png": "/surysanchezportfolio/static/media/marketurself.72a15137d6aea8e2bf6b.png",
     "static/media/game.png": "/surysanchezportfolio/static/media/game.c6db7c7b5076009f95ac.png",
-    "static/media/Resume.pdf": "/surysanchezportfolio/static/media/Resume.82d5910efd9d65658799.pdf",
+    "static/media/SurelySanchez-Full-StackSoftwareEngineer.pdf": "/surysanchezportfolio/static/media/SurelySanchez-Full-StackSoftwareEngineer.b8400d1dbfb5b71ea4e6.pdf",
     "static/media/api.png": "/surysanchezportfolio/static/media/api.4560f980164fe7174313.png",
     "static/media/postresql.png": "/surysanchezportfolio/static/media/postresql.917641916d3dff12d544.png",
     "static/media/react.png": "/surysanchezportfolio/static/media/react.87a378c0f35d542cf0eb.png",
@@ -23,11 +23,11 @@
     "static/media/mongodb.png": "/surysanchezportfolio/static/media/mongodb.39c8355a03f0e23b14aa.png",
     "static/media/javascript.png": "/surysanchezportfolio/static/media/javascript.e7346a1bfe1203261b76.png",
     "index.html": "/surysanchezportfolio/index.html",
-    "main.f7bc8eec.css.map": "/surysanchezportfolio/static/css/main.f7bc8eec.css.map",
-    "main.c2b3b99e.js.map": "/surysanchezportfolio/static/js/main.c2b3b99e.js.map"
+    "main.fc4d4a0b.css.map": "/surysanchezportfolio/static/css/main.fc4d4a0b.css.map",
+    "main.f5c38e86.js.map": "/surysanchezportfolio/static/js/main.f5c38e86.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7bc8eec.css",
-    "static/js/main.c2b3b99e.js"
+    "static/css/main.fc4d4a0b.css",
+    "static/js/main.f5c38e86.js"
   ]
 }
