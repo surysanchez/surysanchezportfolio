@@ -11,5 +11,5 @@
 
 [Github](https://github.com/surysanchez)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
