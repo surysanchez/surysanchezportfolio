@@ -28,7 +28,7 @@ export default function Home() {
         <h4 className="text-white text-3xl ">Hola! </h4>
         <h2 className="text-5xl text-white  sm:text-4xl font-bold">
           {" "}
-          I'm  <span className="text-[#c84cb3]">Surely Sanchez</span>
+          I'm  <span className="text-[#c84cb3]">Surely Cabrera</span>
         </h2>
         <h3 className=" xs:w-full w-1/2 mt-4 text-3xl sm:text-3xl text-white justify-center font-bold rounded-md" >
            a  <span className=" text-[#F2C14E]">{text}</span>
