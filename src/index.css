@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Vidaloka&display=swap');
+
+@layer base {
+  body {
+    @apply font-[Vidaloka];
+  }
+  li {
+    @apply px-4;
+    @apply cursor-pointer;
+  }
+}
+
+.content-div{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+}
+
+.content-div:hover{
+   /* background-image: linear-gradient(to bottom, rgba(240, 180, 61, 0.8), hsla(42, 85%, 18%, 0.8))!important;  */
+
+ 
+  background-image: linear-gradient(to bottom, rgba(218, 232, 109, 0.8), hsla(177, 69%, 25%, 0.8))!important; 
+ 
+}
+.fade-in { animation: fadeIn 15s; }
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
