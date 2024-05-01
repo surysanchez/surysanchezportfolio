@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/surysanchezportfolio/static/css/main.2843cbdb.css",
-    "main.js": "/surysanchezportfolio/static/js/main.721d30c3.js",
-    "static/media/profile.png": "/surysanchezportfolio/static/media/profile.ff49970858c94151d953.png",
+    "main.css": "/surysanchezportfolio/static/css/main.d6b05d9f.css",
+    "main.js": "/surysanchezportfolio/static/js/main.92524748.js",
     "static/media/tastymaria.png": "/surysanchezportfolio/static/media/tastymaria.81697fa987eaff1d528e.png",
     "static/media/sweettreats.png": "/surysanchezportfolio/static/media/sweettreats.ba567c52dcbfb0ee3132.png",
     "static/media/adriancarpenter.png": "/surysanchezportfolio/static/media/adriancarpenter.f15c17a383f66389f2d9.png",
     "static/media/marketurself.png": "/surysanchezportfolio/static/media/marketurself.72a15137d6aea8e2bf6b.png",
     "static/media/game.png": "/surysanchezportfolio/static/media/game.c6db7c7b5076009f95ac.png",
+    "static/media/profile.png": "/surysanchezportfolio/static/media/profile.1e45af1676f6ed5c87e3.png",
     "static/media/SurelyCabrera-Front-EndSoftwareEngineer.pdf": "/surysanchezportfolio/static/media/SurelyCabrera-Front-EndSoftwareEngineer.0050843a4391eb592f89.pdf",
     "static/media/api.png": "/surysanchezportfolio/static/media/api.4560f980164fe7174313.png",
     "static/media/postresql.png": "/surysanchezportfolio/static/media/postresql.917641916d3dff12d544.png",
@@ -22,11 +22,11 @@
     "static/media/mongodb.png": "/surysanchezportfolio/static/media/mongodb.39c8355a03f0e23b14aa.png",
     "static/media/javascript.png": "/surysanchezportfolio/static/media/javascript.e7346a1bfe1203261b76.png",
     "index.html": "/surysanchezportfolio/index.html",
-    "main.2843cbdb.css.map": "/surysanchezportfolio/static/css/main.2843cbdb.css.map",
-    "main.721d30c3.js.map": "/surysanchezportfolio/static/js/main.721d30c3.js.map"
+    "main.d6b05d9f.css.map": "/surysanchezportfolio/static/css/main.d6b05d9f.css.map",
+    "main.92524748.js.map": "/surysanchezportfolio/static/js/main.92524748.js.map"
   },
   "entrypoints": [
-    "static/css/main.2843cbdb.css",
-    "static/js/main.721d30c3.js"
+    "static/css/main.d6b05d9f.css",
+    "static/js/main.92524748.js"
   ]
 }
