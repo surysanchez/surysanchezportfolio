@@ -1,12 +1,12 @@
 import React, { useState } from "react";
-import { HiArrowNarrowRight } from "react-icons/hi";
 // import color from '../assets/color.jpeg';
-import { Link } from "react-scroll";
+import Resume from "../assets/SurelyCabrera-Front-EndSoftwareEngineer.pdf";
 import { useTypewriter, Cursor } from 'react-simple-typewriter'
+import { FaFileDownload } from "react-icons/fa";
 
 export default function Home() {
   const [text] = useTypewriter({
-    words: ['Full-Stack Developer.', "Software Engineer", "Front-End Engineer.", "UI Designer.", "Professional Coder.", "Previous Real Estate Agent"],
+    words: ['Full-Stack Developer.', "Software Engineer", "Front-End Engineer.", "UX Designer.", "Professional Coder.", "Previous Real Estate Agent", 'Pet Parent'],
     Cursor,
     loop: 0,
     typeSpeed: 70,
@@ -40,14 +40,20 @@ export default function Home() {
 
         </h3>
         <div>
-          <button className="text-xl group font-mono font-bold text-black bg-gradient-to-r from-cyan-500 to-pink-500 max-w-[700px] border-4 border-cyan-600 px-4 py-3 my-3 flex items-center hover:bg-[#F2C14E] hover:border-[#F2C14E] ">
-            <Link to="work" smooth={true} duration={500}>
-              View my Work
-            </Link>
-            <span className="group-hover:rotate-90 duration-300">
-              <HiArrowNarrowRight className="ml-3" />
-            </span>{" "}
-          </button>
+
+        <button className="text-lg group font-mono max-w-[700px] border-4 border-cyan-600 px-4 py-3 my-3 flex items-center hover:bg-[#F2C14E] hover:border-[#F2C14E] hover:text-black">
+              <a
+                className="flex justify-between items-center w-full text-300 text-white"
+                href={Resume}
+                download
+                target="_blank"
+                rel="noopener noreferrer"
+                alt=""
+              >
+                Resume <FaFileDownload />
+              </a>
+            </button>
+          
         </div>
       </div>
     </div>

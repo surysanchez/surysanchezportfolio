@@ -175,12 +175,12 @@ export default function Work() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600  text-lg">
+                  {/* <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-cyan-600  text-lg">
                     Demo
-                  </button>
+                  </button> */}
                 </a>
                 <a
-                  href="https://github.com/surysanchez/sweet-treats-creations"
+                  href=""
                   target="_blank"
                   rel="noopener noreferrer"
                 >

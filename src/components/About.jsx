@@ -1,8 +1,8 @@
 import React from "react";
 import ShowMore from "react-show-more-button";
 import Pic from "../assets/profile.png";
-import Resume from "../assets/SurelyCabrera-Front-EndSoftwareEngineer.pdf";
-import { FaFileDownload } from "react-icons/fa";
+import { Link } from "react-scroll";
+import { HiArrowNarrowRight } from "react-icons/hi";
 
 export default function About() {
   return (
@@ -54,18 +54,14 @@ export default function About() {
               Thank you for joining me on this journey. Let's connect and
               explore how we can make a positive impact together!
             </p>
-            <button className="text-lg group font-mono text-[#605022] max-w-[700px] border-4 border-cyan-600 px-4 py-3 my-3 flex items-center hover:bg-[#F2C14E] hover:border-[#F2C14E] ">
-              <a
-                className="flex justify-between items-center w-full text-300"
-                href={Resume}
-                download
-                target="_blank"
-                rel="noopener noreferrer"
-                alt=""
-              >
-                Resume <FaFileDownload />
-              </a>
-            </button>
+            <button className="text-xl group font-mono font-bold text-black bg-gradient-to-r from-cyan-500 to-pink-500 max-w-[700px] border-4 border-cyan-600 px-4 py-3 my-3 flex items-center hover:bg-[#F2C14E] hover:border-[#F2C14E] ">
+            <Link to="work" smooth={true} duration={500}>
+              View my Work
+            </Link>
+            <span className="group-hover:rotate-90 duration-300">
+              <HiArrowNarrowRight className="ml-3" />
+            </span>{" "}
+          </button>
             {/* </ShowMore> */}
           </div>
         </div>
